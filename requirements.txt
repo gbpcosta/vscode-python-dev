@@ -1,0 +1,39 @@
+# Core
+numpy
+scipy
+ipython
+jupyterlab
+
+# Data manipulation
+pandas
+tables
+h5py
+xlsxwriter
+
+# Machine Learning
+scikit-learn
+xgboost
+pycaret
+torch
+pytorch-ignite
+onnx
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+bokeh
+
+# Computer vision
+opencv-python
+scikit-image
+Pillow
+torchvision
+
+# NLP
+spacy
+nltk
+gensim
+
+# Other
+mlflow
